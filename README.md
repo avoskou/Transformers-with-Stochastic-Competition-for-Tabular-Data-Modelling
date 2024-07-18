@@ -1,4 +1,4 @@
-**Note:** The code is currently in an experimental version. Its sole purpose is to verify the referenced results. A user-friendly version of the code, accompanied by more detailed documentation and available as a pip package, will be released after the camera-ready submission.
+**Note:** The code is currently in an experimental version. 
 
 #### Model
 The "STab" folder contains all model-related files.
